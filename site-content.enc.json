@@ -12,9 +12,9 @@
   },
   "books": [
     {
-      "slug": "jane-eyre",
-      "title": "Jane Eyre",
-      "author": "Charlotte Brontë",
+      "slug": "yaar-papa",
+      "title": "Yaar Papa",
+      "author": "Divya Prakash Dubey",
       "genre": "Classic Romance",
       "categories": [
         "romance",
@@ -23,8 +23,8 @@
       "tone": "burgundy",
       "rating": 4.5,
       "personalNote": "Jane refuses to be small, and that stubborn spirit made me fall in love with the book long before I fell for Rochester.",
-      "coverImage": "https://images.pexels.com/photos/19208445/pexels-photo-19208445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLink": "https://www.amazon.in/s?k=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
+      "coverImage": "https://m.media-amazon.com/images/I/71UchDE8PQL._SY466_.jpg",
+      "buyLink": "https://www.amazon.in/Yaar-Papa-%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A5%8D%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%89%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8/dp/9392820844/ref=asc_df_9392820844?mcid=50ab52fe537e30599c05fdc8d7830f94&tag=googleshopdes-21&linkCode=df0&hvadid=709881838702&hvpos=&hvnetw=g&hvrand=8728564340458669751&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007785&hvtargid=pla-2262960103387&psc=1&hvocijid=8728564340458669751-9392820844-&hvexpln=0&gad_source=1"
     },
     {
       "slug": "pride-and-prejudice",
@@ -417,7 +417,7 @@
   },
   "pairings": [
     {
-      "first": "jane-eyre",
+      "first": "yaar-papa",
       "second": "rebecca",
       "reason": "Two brooding houses, and the women who wander through their halls looking for the truth."
     },
@@ -542,7 +542,7 @@
         "wuthering-heights",
         "hunting-adeline",
         "a-court-of-thorns-and-roses",
-        "jane-eyre"
+        "yaar-papa"
       ]
     },
     {
@@ -580,7 +580,7 @@
     {
       "date": "A rainy Sunday",
       "text": "I started my first book review in a notebook with a cracked spine, mostly to stop forgetting the names of the characters. Years later the notebook is still the most honest shelf I own.",
-      "bookSlug": "jane-eyre"
+      "bookSlug": "yaar-papa"
     },
     {
       "date": "Late in the spring",
