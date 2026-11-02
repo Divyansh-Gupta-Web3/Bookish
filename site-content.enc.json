@@ -24,16 +24,7 @@
       "rating": 4.5,
       "personalNote": "Jane refuses to be small, and that stubborn spirit made me fall in love with the book long before I fell for Rochester.",
       "coverImage": "https://images.pexels.com/photos/19208445/pexels-photo-19208445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
     },
     {
       "slug": "pride-and-prejudice",
@@ -47,16 +38,7 @@
       "rating": 5,
       "personalNote": "Every reread finds a new layer of wit. It is the book I recommend first to anyone who says they do not like classics.",
       "coverImage": "https://images.pexels.com/photos/19905625/pexels-photo-19905625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Pride%20and%20Prejudice%20Jane%20Austen"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Pride%20and%20Prejudice%20Jane%20Austen"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Pride%20and%20Prejudice%20Jane%20Austen"
     },
     {
       "slug": "wuthering-heights",
@@ -71,16 +53,7 @@
       "rating": 4,
       "personalNote": "Wild, bleak and impossible to look away from. I read it on a stormy weekend and did not want it to end.",
       "coverImage": "https://images.pexels.com/photos/29676328/pexels-photo-29676328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Wuthering%20Heights%20Emily%20Bront%C3%AB"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Wuthering%20Heights%20Emily%20Bront%C3%AB"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Wuthering%20Heights%20Emily%20Bront%C3%AB"
     },
     {
       "slug": "hunting-adeline",
@@ -94,16 +67,7 @@
       "rating": 3.5,
       "personalNote": "Intense and unapologetically dark. Not for everyone, but it shows exactly what this genre can do when it commits fully.",
       "coverImage": "https://images.pexels.com/photos/10584992/pexels-photo-10584992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Hunting%20Adeline%20H.D.%20Carlton"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Hunting%20Adeline%20H.D.%20Carlton"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Hunting%20Adeline%20H.D.%20Carlton"
     },
     {
       "slug": "beach-read",
@@ -117,16 +81,7 @@
       "rating": 4.5,
       "personalNote": "Warm, funny and sharper than its cover suggests. The perfect companion for a slow afternoon with a strong coffee.",
       "coverImage": "https://images.pexels.com/photos/39637750/pexels-photo-39637750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Beach%20Read%20Emily%20Henry"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Beach%20Read%20Emily%20Henry"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Beach%20Read%20Emily%20Henry"
     },
     {
       "slug": "it-ends-with-us",
@@ -140,16 +95,7 @@
       "rating": 4,
       "personalNote": "An emotional read that left me quiet for a long time. Keep tissues close and a friend ready to talk afterwards.",
       "coverImage": "https://images.pexels.com/photos/17314154/pexels-photo-17314154.png?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=It%20Ends%20With%20Us%20Colleen%20Hoover"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=It%20Ends%20With%20Us%20Colleen%20Hoover"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=It%20Ends%20With%20Us%20Colleen%20Hoover"
     },
     {
       "slug": "a-court-of-thorns-and-roses",
@@ -164,16 +110,7 @@
       "rating": 4,
       "personalNote": "A fairy tale with teeth. The world-building is lush and the slow turn of the romance is deeply satisfying.",
       "coverImage": "https://images.pexels.com/photos/31880175/pexels-photo-31880175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=A%20Court%20of%20Thorns%20and%20Roses%20Sarah%20J.%20Maas"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=A%20Court%20of%20Thorns%20and%20Roses%20Sarah%20J.%20Maas"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=A%20Court%20of%20Thorns%20and%20Roses%20Sarah%20J.%20Maas"
     },
     {
       "slug": "the-name-of-the-wind",
@@ -188,16 +125,7 @@
       "rating": 4.5,
       "personalNote": "A storyteller telling his own legend, with a voice so warm it feels like being told a secret by a fire.",
       "coverImage": "https://images.pexels.com/photos/38825373/pexels-photo-38825373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss"
     },
     {
       "slug": "circe",
@@ -212,16 +140,7 @@
       "rating": 4.5,
       "personalNote": "Ancient myth retold through a single, unforgettable voice. Every chapter felt like a small, perfect bloom.",
       "coverImage": "https://images.pexels.com/photos/30555396/pexels-photo-30555396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Circe%20Madeline%20Miller"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Circe%20Madeline%20Miller"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Circe%20Madeline%20Miller"
     },
     {
       "slug": "and-then-there-were-none",
@@ -235,16 +154,7 @@
       "rating": 5,
       "personalNote": "The gold standard of the locked-room mystery. I still count the characters on my fingers as I read.",
       "coverImage": "https://images.pexels.com/photos/17323507/pexels-photo-17323507.png?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=And%20Then%20There%20Were%20None%20Agatha%20Christie"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=And%20Then%20There%20Were%20None%20Agatha%20Christie"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=And%20Then%20There%20Were%20None%20Agatha%20Christie"
     },
     {
       "slug": "the-secret-history",
@@ -259,16 +169,7 @@
       "rating": 4,
       "personalNote": "A slow, elegant unravelling of a closed circle of students. The prose alone is worth the price of admission.",
       "coverImage": "https://images.pexels.com/photos/9258374/pexels-photo-9258374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20Secret%20History%20Donna%20Tartt"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20Secret%20History%20Donna%20Tartt"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20Secret%20History%20Donna%20Tartt"
     },
     {
       "slug": "rebecca",
@@ -283,16 +184,7 @@
       "rating": 4.5,
       "personalNote": "Manderley lingers in the mind long after the last page. A masterclass in quiet, creeping unease.",
       "coverImage": "https://images.pexels.com/photos/39625399/pexels-photo-39625399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Rebecca%20Daphne%20du%20Maurier"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Rebecca%20Daphne%20du%20Maurier"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Rebecca%20Daphne%20du%20Maurier"
     },
     {
       "slug": "gone-girl",
@@ -307,16 +199,7 @@
       "rating": 4,
       "personalNote": "Every chapter flips your opinion of someone. I finished it in one sitting and immediately wanted to argue about it.",
       "coverImage": "https://images.pexels.com/photos/19328669/pexels-photo-19328669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Gone%20Girl%20Gillian%20Flynn"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Gone%20Girl%20Gillian%20Flynn"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Gone%20Girl%20Gillian%20Flynn"
     },
     {
       "slug": "the-remains-of-the-day",
@@ -331,16 +214,7 @@
       "rating": 4.5,
       "personalNote": "A butler, a lifetime of restraint and the things left unsaid. Quiet, devastating and beautifully controlled.",
       "coverImage": "https://images.pexels.com/photos/13556546/pexels-photo-13556546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20Remains%20of%20the%20Day%20Kazuo%20Ishiguro"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20Remains%20of%20the%20Day%20Kazuo%20Ishiguro"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20Remains%20of%20the%20Day%20Kazuo%20Ishiguro"
     },
     {
       "slug": "the-white-tiger",
@@ -355,16 +229,7 @@
       "rating": 4,
       "personalNote": "A razor-sharp, darkly funny voice that does not look away from the class divides of modern India.",
       "coverImage": "https://images.pexels.com/photos/15102004/pexels-photo-15102004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20White%20Tiger%20Aravind%20Adiga"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20White%20Tiger%20Aravind%20Adiga"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20White%20Tiger%20Aravind%20Adiga"
     },
     {
       "slug": "the-god-of-small-things",
@@ -379,16 +244,7 @@
       "rating": 4.5,
       "personalNote": "Language that shimmers. Every sentence seems to hold a monsoon, a memory and a secret in equal measure.",
       "coverImage": "https://images.pexels.com/photos/19208445/pexels-photo-19208445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20God%20of%20Small%20Things%20Arundhati%20Roy"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20God%20of%20Small%20Things%20Arundhati%20Roy"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20God%20of%20Small%20Things%20Arundhati%20Roy"
     },
     {
       "slug": "malgudi-days",
@@ -403,16 +259,7 @@
       "rating": 4.5,
       "personalNote": "Small town stories that feel like afternoons on a verandah. Gentle, funny and full of heart.",
       "coverImage": "https://images.pexels.com/photos/19905625/pexels-photo-19905625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Malgudi%20Days%20R.%20K.%20Narayan"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Malgudi%20Days%20R.%20K.%20Narayan"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Malgudi%20Days%20R.%20K.%20Narayan"
     },
     {
       "slug": "atomic-habits",
@@ -426,16 +273,7 @@
       "rating": 4,
       "personalNote": "Practical and kind. I wrote down two of its ideas on a sticky note and they are still on my desk.",
       "coverImage": "https://images.pexels.com/photos/29676328/pexels-photo-29676328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Atomic%20Habits%20James%20Clear"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Atomic%20Habits%20James%20Clear"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Atomic%20Habits%20James%20Clear"
     },
     {
       "slug": "mans-search-for-meaning",
@@ -450,16 +288,7 @@
       "rating": 5,
       "personalNote": "Written from a concentration camp, it still feels like the most useful book I own. I return to it whenever I lose my way.",
       "coverImage": "https://images.pexels.com/photos/10584992/pexels-photo-10584992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Man's%20Search%20for%20Meaning%20Viktor%20E.%20Frankl"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Man's%20Search%20for%20Meaning%20Viktor%20E.%20Frankl"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Man's%20Search%20for%20Meaning%20Viktor%20E.%20Frankl"
     },
     {
       "slug": "the-hunger-games",
@@ -474,16 +303,7 @@
       "rating": 4,
       "personalNote": "Impossible to put down. A reminder of how good young adult fiction can be when it trusts its readers.",
       "coverImage": "https://images.pexels.com/photos/39637750/pexels-photo-39637750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=The%20Hunger%20Games%20Suzanne%20Collins"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=The%20Hunger%20Games%20Suzanne%20Collins"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=The%20Hunger%20Games%20Suzanne%20Collins"
     },
     {
       "slug": "eleanor-and-park",
@@ -498,16 +318,7 @@
       "rating": 4.5,
       "personalNote": "Awkward, tender and deeply true to the feeling of first falling for someone. I loved every mixtape reference.",
       "coverImage": "https://images.pexels.com/photos/17314154/pexels-photo-17314154.png?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Eleanor%20%26%20Park%20Rainbow%20Rowell"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Eleanor%20%26%20Park%20Rainbow%20Rowell"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Eleanor%20%26%20Park%20Rainbow%20Rowell"
     },
     {
       "slug": "piranesi",
@@ -522,16 +333,7 @@
       "rating": 5,
       "personalNote": "A house with endless halls, a mind that finds wonder in every statue, and a mystery that unfolds like a tide. Quietly magical.",
       "coverImage": "https://images.pexels.com/photos/31880175/pexels-photo-31880175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "buyLinks": [
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.in/s?k=Piranesi%20Susanna%20Clarke"
-        },
-        {
-          "name": "Flipkart",
-          "url": "https://www.flipkart.com/search?q=Piranesi%20Susanna%20Clarke"
-        }
-      ]
+      "buyLink": "https://www.amazon.in/s?k=Piranesi%20Susanna%20Clarke"
     }
   ],
   "categories": [
