@@ -1,3 +1,794 @@
 {
-  "data": "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"
+  "site": {
+    "name": "Bookish Aspirant",
+    "creator": "The Silent Reader",
+    "tagline": "A little corner for readers, dreamers & book lovers.",
+    "email": "mybookishworlds@gmail.com",
+    "instagramUrl": "https://www.instagram.com/bookish_aspirant",
+    "affiliateDisclosure": "Bookish Aspirant is a participant in the Amazon Associates programme and the Flipkart affiliate programme. When you buy through the links on this site, I may earn a small commission at no extra cost to you."
+  },
+  "hero": {
+    "headline": "Every book has a story. Every reader has a world."
+  },
+  "books": [
+    {
+      "slug": "jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Classic Romance",
+      "categories": [
+        "romance",
+        "fiction"
+      ],
+      "tone": "burgundy",
+      "rating": 4.5,
+      "personalNote": "Jane refuses to be small, and that stubborn spirit made me fall in love with the book long before I fell for Rochester.",
+      "coverImage": "https://images.pexels.com/photos/19208445/pexels-photo-19208445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Jane%20Eyre%20Charlotte%20Bront%C3%AB"
+        }
+      ]
+    },
+    {
+      "slug": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "categories": [
+        "romance"
+      ],
+      "tone": "parchment",
+      "rating": 5,
+      "personalNote": "Every reread finds a new layer of wit. It is the book I recommend first to anyone who says they do not like classics.",
+      "coverImage": "https://images.pexels.com/photos/19905625/pexels-photo-19905625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Pride%20and%20Prejudice%20Jane%20Austen"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Pride%20and%20Prejudice%20Jane%20Austen"
+        }
+      ]
+    },
+    {
+      "slug": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Gothic Romance",
+      "categories": [
+        "dark-romance",
+        "fiction"
+      ],
+      "tone": "ink",
+      "rating": 4,
+      "personalNote": "Wild, bleak and impossible to look away from. I read it on a stormy weekend and did not want it to end.",
+      "coverImage": "https://images.pexels.com/photos/29676328/pexels-photo-29676328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Wuthering%20Heights%20Emily%20Bront%C3%AB"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Wuthering%20Heights%20Emily%20Bront%C3%AB"
+        }
+      ]
+    },
+    {
+      "slug": "hunting-adeline",
+      "title": "Hunting Adeline",
+      "author": "H.D. Carlton",
+      "genre": "Dark Romance",
+      "categories": [
+        "dark-romance"
+      ],
+      "tone": "burgundy",
+      "rating": 3.5,
+      "personalNote": "Intense and unapologetically dark. Not for everyone, but it shows exactly what this genre can do when it commits fully.",
+      "coverImage": "https://images.pexels.com/photos/10584992/pexels-photo-10584992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Hunting%20Adeline%20H.D.%20Carlton"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Hunting%20Adeline%20H.D.%20Carlton"
+        }
+      ]
+    },
+    {
+      "slug": "beach-read",
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "genre": "Contemporary Romance",
+      "categories": [
+        "contemporary-romance"
+      ],
+      "tone": "rose",
+      "rating": 4.5,
+      "personalNote": "Warm, funny and sharper than its cover suggests. The perfect companion for a slow afternoon with a strong coffee.",
+      "coverImage": "https://images.pexels.com/photos/39637750/pexels-photo-39637750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Beach%20Read%20Emily%20Henry"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Beach%20Read%20Emily%20Henry"
+        }
+      ]
+    },
+    {
+      "slug": "it-ends-with-us",
+      "title": "It Ends With Us",
+      "author": "Colleen Hoover",
+      "genre": "Contemporary Romance",
+      "categories": [
+        "contemporary-romance"
+      ],
+      "tone": "parchment",
+      "rating": 4,
+      "personalNote": "An emotional read that left me quiet for a long time. Keep tissues close and a friend ready to talk afterwards.",
+      "coverImage": "https://images.pexels.com/photos/17314154/pexels-photo-17314154.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=It%20Ends%20With%20Us%20Colleen%20Hoover"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=It%20Ends%20With%20Us%20Colleen%20Hoover"
+        }
+      ]
+    },
+    {
+      "slug": "a-court-of-thorns-and-roses",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "genre": "Fantasy Romance",
+      "categories": [
+        "fantasy",
+        "romance"
+      ],
+      "tone": "ink",
+      "rating": 4,
+      "personalNote": "A fairy tale with teeth. The world-building is lush and the slow turn of the romance is deeply satisfying.",
+      "coverImage": "https://images.pexels.com/photos/31880175/pexels-photo-31880175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=A%20Court%20of%20Thorns%20and%20Roses%20Sarah%20J.%20Maas"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=A%20Court%20of%20Thorns%20and%20Roses%20Sarah%20J.%20Maas"
+        }
+      ]
+    },
+    {
+      "slug": "the-name-of-the-wind",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "categories": [
+        "fantasy",
+        "hidden-gems"
+      ],
+      "tone": "burgundy",
+      "rating": 4.5,
+      "personalNote": "A storyteller telling his own legend, with a voice so warm it feels like being told a secret by a fire.",
+      "coverImage": "https://images.pexels.com/photos/38825373/pexels-photo-38825373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss"
+        }
+      ]
+    },
+    {
+      "slug": "circe",
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "genre": "Mythic Fantasy",
+      "categories": [
+        "fantasy",
+        "fiction"
+      ],
+      "tone": "parchment",
+      "rating": 4.5,
+      "personalNote": "Ancient myth retold through a single, unforgettable voice. Every chapter felt like a small, perfect bloom.",
+      "coverImage": "https://images.pexels.com/photos/30555396/pexels-photo-30555396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Circe%20Madeline%20Miller"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Circe%20Madeline%20Miller"
+        }
+      ]
+    },
+    {
+      "slug": "and-then-there-were-none",
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "genre": "Mystery",
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tone": "ink",
+      "rating": 5,
+      "personalNote": "The gold standard of the locked-room mystery. I still count the characters on my fingers as I read.",
+      "coverImage": "https://images.pexels.com/photos/17323507/pexels-photo-17323507.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=And%20Then%20There%20Were%20None%20Agatha%20Christie"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=And%20Then%20There%20Were%20None%20Agatha%20Christie"
+        }
+      ]
+    },
+    {
+      "slug": "the-secret-history",
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "genre": "Mystery & Thriller",
+      "categories": [
+        "mystery-thriller",
+        "fiction"
+      ],
+      "tone": "burgundy",
+      "rating": 4,
+      "personalNote": "A slow, elegant unravelling of a closed circle of students. The prose alone is worth the price of admission.",
+      "coverImage": "https://images.pexels.com/photos/9258374/pexels-photo-9258374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20Secret%20History%20Donna%20Tartt"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20Secret%20History%20Donna%20Tartt"
+        }
+      ]
+    },
+    {
+      "slug": "rebecca",
+      "title": "Rebecca",
+      "author": "Daphne du Maurier",
+      "genre": "Psychological Thriller",
+      "categories": [
+        "psychological-thriller",
+        "romance"
+      ],
+      "tone": "rose",
+      "rating": 4.5,
+      "personalNote": "Manderley lingers in the mind long after the last page. A masterclass in quiet, creeping unease.",
+      "coverImage": "https://images.pexels.com/photos/39625399/pexels-photo-39625399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Rebecca%20Daphne%20du%20Maurier"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Rebecca%20Daphne%20du%20Maurier"
+        }
+      ]
+    },
+    {
+      "slug": "gone-girl",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Psychological Thriller",
+      "categories": [
+        "psychological-thriller",
+        "mystery-thriller"
+      ],
+      "tone": "ink",
+      "rating": 4,
+      "personalNote": "Every chapter flips your opinion of someone. I finished it in one sitting and immediately wanted to argue about it.",
+      "coverImage": "https://images.pexels.com/photos/19328669/pexels-photo-19328669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Gone%20Girl%20Gillian%20Flynn"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Gone%20Girl%20Gillian%20Flynn"
+        }
+      ]
+    },
+    {
+      "slug": "the-remains-of-the-day",
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "genre": "Literary Fiction",
+      "categories": [
+        "fiction",
+        "hidden-gems"
+      ],
+      "tone": "parchment",
+      "rating": 4.5,
+      "personalNote": "A butler, a lifetime of restraint and the things left unsaid. Quiet, devastating and beautifully controlled.",
+      "coverImage": "https://images.pexels.com/photos/13556546/pexels-photo-13556546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20Remains%20of%20the%20Day%20Kazuo%20Ishiguro"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20Remains%20of%20the%20Day%20Kazuo%20Ishiguro"
+        }
+      ]
+    },
+    {
+      "slug": "the-white-tiger",
+      "title": "The White Tiger",
+      "author": "Aravind Adiga",
+      "genre": "Fiction",
+      "categories": [
+        "indian-authors",
+        "fiction"
+      ],
+      "tone": "rose",
+      "rating": 4,
+      "personalNote": "A razor-sharp, darkly funny voice that does not look away from the class divides of modern India.",
+      "coverImage": "https://images.pexels.com/photos/15102004/pexels-photo-15102004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20White%20Tiger%20Aravind%20Adiga"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20White%20Tiger%20Aravind%20Adiga"
+        }
+      ]
+    },
+    {
+      "slug": "the-god-of-small-things",
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "genre": "Literary Fiction",
+      "categories": [
+        "indian-authors",
+        "fiction"
+      ],
+      "tone": "burgundy",
+      "rating": 4.5,
+      "personalNote": "Language that shimmers. Every sentence seems to hold a monsoon, a memory and a secret in equal measure.",
+      "coverImage": "https://images.pexels.com/photos/19208445/pexels-photo-19208445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20God%20of%20Small%20Things%20Arundhati%20Roy"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20God%20of%20Small%20Things%20Arundhati%20Roy"
+        }
+      ]
+    },
+    {
+      "slug": "malgudi-days",
+      "title": "Malgudi Days",
+      "author": "R. K. Narayan",
+      "genre": "Short Stories",
+      "categories": [
+        "indian-authors",
+        "hidden-gems"
+      ],
+      "tone": "parchment",
+      "rating": 4.5,
+      "personalNote": "Small town stories that feel like afternoons on a verandah. Gentle, funny and full of heart.",
+      "coverImage": "https://images.pexels.com/photos/19905625/pexels-photo-19905625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Malgudi%20Days%20R.%20K.%20Narayan"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Malgudi%20Days%20R.%20K.%20Narayan"
+        }
+      ]
+    },
+    {
+      "slug": "atomic-habits",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "categories": [
+        "self-help"
+      ],
+      "tone": "burgundy",
+      "rating": 4,
+      "personalNote": "Practical and kind. I wrote down two of its ideas on a sticky note and they are still on my desk.",
+      "coverImage": "https://images.pexels.com/photos/29676328/pexels-photo-29676328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Atomic%20Habits%20James%20Clear"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Atomic%20Habits%20James%20Clear"
+        }
+      ]
+    },
+    {
+      "slug": "mans-search-for-meaning",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "genre": "Memoir & Philosophy",
+      "categories": [
+        "self-help",
+        "hidden-gems"
+      ],
+      "tone": "ink",
+      "rating": 5,
+      "personalNote": "Written from a concentration camp, it still feels like the most useful book I own. I return to it whenever I lose my way.",
+      "coverImage": "https://images.pexels.com/photos/10584992/pexels-photo-10584992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Man's%20Search%20for%20Meaning%20Viktor%20E.%20Frankl"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Man's%20Search%20for%20Meaning%20Viktor%20E.%20Frankl"
+        }
+      ]
+    },
+    {
+      "slug": "the-hunger-games",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "categories": [
+        "young-adult",
+        "fantasy"
+      ],
+      "tone": "rose",
+      "rating": 4,
+      "personalNote": "Impossible to put down. A reminder of how good young adult fiction can be when it trusts its readers.",
+      "coverImage": "https://images.pexels.com/photos/39637750/pexels-photo-39637750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=The%20Hunger%20Games%20Suzanne%20Collins"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=The%20Hunger%20Games%20Suzanne%20Collins"
+        }
+      ]
+    },
+    {
+      "slug": "eleanor-and-park",
+      "title": "Eleanor & Park",
+      "author": "Rainbow Rowell",
+      "genre": "Young Adult Romance",
+      "categories": [
+        "young-adult",
+        "romance"
+      ],
+      "tone": "parchment",
+      "rating": 4.5,
+      "personalNote": "Awkward, tender and deeply true to the feeling of first falling for someone. I loved every mixtape reference.",
+      "coverImage": "https://images.pexels.com/photos/17314154/pexels-photo-17314154.png?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Eleanor%20%26%20Park%20Rainbow%20Rowell"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Eleanor%20%26%20Park%20Rainbow%20Rowell"
+        }
+      ]
+    },
+    {
+      "slug": "piranesi",
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "genre": "Fantasy",
+      "categories": [
+        "fantasy",
+        "hidden-gems"
+      ],
+      "tone": "ink",
+      "rating": 5,
+      "personalNote": "A house with endless halls, a mind that finds wonder in every statue, and a mystery that unfolds like a tide. Quietly magical.",
+      "coverImage": "https://images.pexels.com/photos/31880175/pexels-photo-31880175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.in/s?k=Piranesi%20Susanna%20Clarke"
+        },
+        {
+          "name": "Flipkart",
+          "url": "https://www.flipkart.com/search?q=Piranesi%20Susanna%20Clarke"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "slug": "romance",
+      "name": "Romance",
+      "description": "Slow-burning love stories, letters and the hearts that wait for them.",
+      "image": "https://images.pexels.com/photos/5761595/pexels-photo-5761595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "dark-romance",
+      "name": "Dark Romance",
+      "description": "Obsession, danger and devotion told in candlelit shadows.",
+      "image": "https://images.pexels.com/photos/16282694/pexels-photo-16282694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "contemporary-romance",
+      "name": "Contemporary Romance",
+      "description": "Modern love, cafe conversations and second chances.",
+      "image": "https://images.pexels.com/photos/3978283/pexels-photo-3978283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "fantasy",
+      "name": "Fantasy",
+      "description": "Lost kingdoms, old magic and worlds that refuse to end at the last page.",
+      "image": "https://images.pexels.com/photos/4084698/pexels-photo-4084698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "mystery-thriller",
+      "name": "Mystery & Thriller",
+      "description": "Clues in the fog, locked rooms and questions that demand an answer.",
+      "image": "https://images.pexels.com/photos/10212985/pexels-photo-10212985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "psychological-thriller",
+      "name": "Psychological Thriller",
+      "description": "Unreliable minds, quiet unease and stories that get under the skin.",
+      "image": "https://images.pexels.com/photos/17916245/pexels-photo-17916245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "fiction",
+      "name": "Fiction",
+      "description": "Novels that hold up a mirror to ordinary lives with extraordinary care.",
+      "image": "https://images.pexels.com/photos/3804409/pexels-photo-3804409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "self-help",
+      "name": "Self Help",
+      "description": "Small rituals, honest reflections and books that ask for a notebook.",
+      "image": "https://images.pexels.com/photos/6653890/pexels-photo-6653890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "indian-authors",
+      "name": "Indian Authors",
+      "description": "Voices from India, rich with monsoon light, family and history.",
+      "image": "https://images.pexels.com/photos/17445317/pexels-photo-17445317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "young-adult",
+      "name": "Young Adult",
+      "description": "Coming-of-age stories for anyone who still remembers being sixteen.",
+      "image": "https://images.pexels.com/photos/8419633/pexels-photo-8419633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    },
+    {
+      "slug": "hidden-gems",
+      "name": "Hidden Gems",
+      "description": "Quiet, under-the-radar books worth carrying home from the back shelves.",
+      "image": "https://images.pexels.com/photos/19594239/pexels-photo-19594239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    }
+  ],
+  "currentlyReading": {
+    "slug": "the-god-of-small-things",
+    "personalNote": "I started this one on a rainy evening and have been reading it slowly, a few pages at a time, so the language can settle in. Each chapter asks me to stop and reread a sentence.",
+    "pagesRead": 212,
+    "totalPages": 340
+  },
+  "bookOfTheMonth": {
+    "slug": "piranesi",
+    "monthLabel": "November 2026",
+    "recommendation": "This is the book I have pressed into more hands this month than any other. It is slow, strange and tender, and it asks you to pay attention. Read it without rushing and let the halls open up around you."
+  },
+  "pairings": [
+    {
+      "first": "jane-eyre",
+      "second": "rebecca",
+      "reason": "Two brooding houses, and the women who wander through their halls looking for the truth."
+    },
+    {
+      "first": "and-then-there-were-none",
+      "second": "the-secret-history",
+      "reason": "A closed circle, a single secret and a slow, creeping unravelling."
+    },
+    {
+      "first": "circe",
+      "second": "the-name-of-the-wind",
+      "reason": "Myth and legend retold through unforgettable voices that feel like a firelit confession."
+    }
+  ],
+  "readerReviews": [
+    {
+      "bookSlug": "the-god-of-small-things",
+      "date": "October 2026",
+      "rating": 4.5,
+      "excerpt": "Reading this slowly has been a gift. The sentences hold weather, grief and laughter all at once, and I keep stopping to read them aloud."
+    },
+    {
+      "bookSlug": "piranesi",
+      "date": "September 2026",
+      "rating": 5,
+      "excerpt": "Wonder in its purest form. A book that makes an ordinary corridor feel like a cathedral, and left me wanting to wander my own house."
+    },
+    {
+      "bookSlug": "rebecca",
+      "date": "August 2026",
+      "rating": 4.5,
+      "excerpt": "The first chapter alone is perfect. Every room at Manderley feels like it is holding its breath."
+    }
+  ],
+  "latestReads": [
+    {
+      "bookSlug": "the-remains-of-the-day",
+      "finishedOn": "October 2026",
+      "note": "Quiet and devastating. Stevens says so much through what he refuses to say."
+    },
+    {
+      "bookSlug": "circe",
+      "finishedOn": "September 2026",
+      "note": "Myth retold so intimately that I forgot I was reading about gods."
+    },
+    {
+      "bookSlug": "the-secret-history",
+      "finishedOn": "August 2026",
+      "note": "Slow and elegant. The prose carried me through every unsettling turn."
+    },
+    {
+      "bookSlug": "eleanor-and-park",
+      "finishedOn": "July 2026",
+      "note": "Awkward and tender in exactly the right places. The mixtape details made me smile."
+    },
+    {
+      "bookSlug": "mans-search-for-meaning",
+      "finishedOn": "June 2026",
+      "note": "A short book with ideas that stayed with me for weeks after the last page."
+    }
+  ],
+  "favouriteQuotes": [
+    {
+      "text": "Last night I dreamt I went to Manderley again.",
+      "source": "Rebecca"
+    },
+    {
+      "text": "Whatever our souls are made of, his and mine are the same.",
+      "source": "Wuthering Heights"
+    },
+    {
+      "text": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+      "source": "Jane Eyre"
+    }
+  ],
+  "readingNotes": [
+    "Keep a slow pace for literary fiction. Read one chapter, then write one sentence about it.",
+    "Libraries feel different in the rain. Note which books you reach for when the sky is grey.",
+    "A book you abandon is not a failure. Put a bookmark in it and come back when you are ready."
+  ],
+  "favouriteBookSlugs": [
+    "pride-and-prejudice",
+    "circe",
+    "the-remains-of-the-day",
+    "the-god-of-small-things",
+    "piranesi"
+  ],
+  "readingYear": {
+    "year": 2026,
+    "lastUpdated": "October 2026",
+    "goalBooks": 40,
+    "booksFinished": 27,
+    "pagesRead": 9860,
+    "favouriteGenre": "Literary fiction",
+    "note": "Slower than last year, and happier for it. More rereads, fewer unfinished books."
+  },
+  "moods": [
+    {
+      "id": "comfort",
+      "label": "I want a comfort read",
+      "bookSlugs": [
+        "pride-and-prejudice",
+        "beach-read",
+        "malgudi-days",
+        "eleanor-and-park"
+      ]
+    },
+    {
+      "id": "heartbreak",
+      "label": "I want a heartbreaking story",
+      "bookSlugs": [
+        "it-ends-with-us",
+        "the-remains-of-the-day",
+        "the-god-of-small-things",
+        "mans-search-for-meaning"
+      ]
+    },
+    {
+      "id": "dark-romance",
+      "label": "I want dark romance",
+      "bookSlugs": [
+        "wuthering-heights",
+        "hunting-adeline",
+        "a-court-of-thorns-and-roses",
+        "jane-eyre"
+      ]
+    },
+    {
+      "id": "plot-twist",
+      "label": "I want a plot twist",
+      "bookSlugs": [
+        "gone-girl",
+        "and-then-there-were-none",
+        "the-secret-history",
+        "rebecca"
+      ]
+    },
+    {
+      "id": "magical",
+      "label": "I want something magical",
+      "bookSlugs": [
+        "piranesi",
+        "circe",
+        "the-name-of-the-wind",
+        "the-hunger-games"
+      ]
+    },
+    {
+      "id": "quick-read",
+      "label": "I want a quick read",
+      "bookSlugs": [
+        "beach-read",
+        "the-hunger-games",
+        "malgudi-days",
+        "eleanor-and-park"
+      ]
+    }
+  ],
+  "diaryEntries": [
+    {
+      "date": "A rainy Sunday",
+      "text": "I started my first book review in a notebook with a cracked spine, mostly to stop forgetting the names of the characters. Years later the notebook is still the most honest shelf I own.",
+      "bookSlug": "jane-eyre"
+    },
+    {
+      "date": "Late in the spring",
+      "text": "I learned to read slowly. Some books need a chapter a night, a pencil in hand and a cup of tea that goes cold while you forget to drink it.",
+      "bookSlug": "the-god-of-small-things"
+    },
+    {
+      "date": "Last autumn",
+      "text": "I began sharing these notes with strangers who became friends. If a line here made you pause, I would love to hear which one.",
+      "bookSlug": "piranesi"
+    }
+  ]
 }
